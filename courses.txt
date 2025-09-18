@@ -1,0 +1,3 @@
+DIT101,Intro to IT,1
+DIT205,Data Structure & Algorithms,4
+
